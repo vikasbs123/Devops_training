@@ -3,4 +3,8 @@ This is the First line we are writing
 This is my seconed line in feature
 This is we are adding from feature 
 This is we are adding from aws
+<<<<<<< HEAD
 This is for training
+=======
+this is from noc
+>>>>>>> e1d92de0e774a588c2fa83a61ed60f207f57d002
